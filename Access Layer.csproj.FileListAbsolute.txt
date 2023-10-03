@@ -1,0 +1,9 @@
+E:\Windows Form Applocations\Dentist Clinic\Access Layer\bin\Debug\Access Layer.dll
+E:\Windows Form Applocations\Dentist Clinic\Access Layer\bin\Debug\Access Layer.pdb
+E:\Windows Form Applocations\Dentist Clinic\Access Layer\obj\Debug\Access Layer.csproj.AssemblyReference.cache
+E:\Windows Form Applocations\Dentist Clinic\Access Layer\obj\Debug\Access Layer.csproj.CoreCompileInputs.cache
+E:\Windows Form Applocations\Dentist Clinic\Access Layer\obj\Debug\Access Layer.dll
+E:\Windows Form Applocations\Dentist Clinic\Access Layer\obj\Debug\Access Layer.pdb
+E:\Windows Form Applocations\Dentist Clinic\Access Layer\bin\Debug\Shared.dll
+E:\Windows Form Applocations\Dentist Clinic\Access Layer\bin\Debug\Shared.pdb
+E:\Windows Form Applocations\Dentist Clinic\Access Layer\obj\Debug\Access Layer.csproj.CopyComplete

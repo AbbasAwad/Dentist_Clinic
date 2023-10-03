@@ -1,0 +1,6 @@
+E:\Windows Form Applocations\Dentist Clinic\Shared\bin\Debug\Shared.dll
+E:\Windows Form Applocations\Dentist Clinic\Shared\bin\Debug\Shared.pdb
+E:\Windows Form Applocations\Dentist Clinic\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+E:\Windows Form Applocations\Dentist Clinic\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+E:\Windows Form Applocations\Dentist Clinic\Shared\obj\Debug\Shared.dll
+E:\Windows Form Applocations\Dentist Clinic\Shared\obj\Debug\Shared.pdb

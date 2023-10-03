@@ -1,0 +1,44 @@
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\Dentist Clinic.exe.config
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\Dentist Clinic.exe
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\Dentist Clinic.pdb
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\business Layer.dll
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\Guna.UI.dll
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\business Layer.pdb
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist Clinic.csproj.AssemblyReference.cache
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist Clinic.csproj.SuggestedBindingRedirects.cache
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Properties.Resources.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Form1.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist Clinic.csproj.GenerateResource.cache
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist Clinic.csproj.CoreCompileInputs.cache
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist Clinic.csproj.CopyComplete
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist Clinic.exe
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist Clinic.pdb
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\Access Layer.dll
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\Access Layer.pdb
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmMain.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmPatients.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmPatientManage.resources
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\Shared.dll
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\Shared.pdb
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmUersManage.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frnUsers.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmConsumption.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmSpending1.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmEarnsDebte.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.FrmViewFiles.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmHome.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmSettings.resources
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\en\Dentist Clinic.resources.dll
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmSettings.en.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\en\Dentist Clinic.resources.dll
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\ar-DZ\Dentist Clinic.resources.dll
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\ar\Dentist Clinic.resources.dll
+E:\Windows Form Applocations\Dentist Clinic\bin\Debug\en-AS\Dentist Clinic.resources.dll
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmSettings.ar-DZ.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmSettings.ar.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmSettings.en-AS.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\ar-DZ\Dentist Clinic.resources.dll
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\ar\Dentist Clinic.resources.dll
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\en-AS\Dentist Clinic.resources.dll
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmBackUP.resources
+E:\Windows Form Applocations\Dentist Clinic\obj\Debug\Dentist_Clinic.Views.frmShowSettings.resources
